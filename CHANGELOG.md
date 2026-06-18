@@ -1,5 +1,23 @@
 # Changelog
 
+## v2.7.3-vegas-release-V2 (2026-06-12) — GPU BCn→ASTC Transcoder
+
+GPU-accelerated BCn to ASTC texture transcoder with batch compilation pipeline for DXVK.
+
+### Features
+- GPU BCn→ASTC Transcoder — Hardware-accelerated texture format conversion
+- Batch Compilation Pipeline — Multi-threaded transcoding queue
+- LZ4 Compression — Intermediate data compression
+- ASTC Texture Encoding — Native Adreno format support
+- Documentation Updates — Full transcoder docs, usage guide
+
+### Build Details
+- Commit (private): f536842
+- Branch: release-v2
+- Target: Android aarch64 (Adreno via Turnip/Mesa)
+
+---
+
 ## v2.7.3-vegas-stable (2026-06-08) — Stable Release
 
 Community DXVK build for Adreno Android Emulation (Star Emulator / Winlator).
