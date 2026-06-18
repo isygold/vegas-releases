@@ -1,5 +1,21 @@
 # Changelog
 
+## v2.7.3-vegas-gpu-transcode (2026-06-14) — GPU Transcode Update
+
+Updated GPU BCn→ASTC transcoder with CI pipeline fixes and documentation improvements.
+
+### Features
+- CI Pipeline Fixes — Resolved missing `/*` doc comment in ensureFsrIntermediate
+- Documentation Updates — Consolidated transcoder docs
+- GPU Transcode Refinements — Stability improvements for batch pipeline
+
+### Build Details
+- Commit (private): f536842
+- Branch: release-v2
+- Target: Android aarch64 (Adreno via Turnip/Mesa)
+
+---
+
 ## v2.7.3-vegas-release-V2 (2026-06-12) — GPU BCn→ASTC Transcoder
 
 GPU-accelerated BCn to ASTC texture transcoder with batch compilation pipeline for DXVK.
