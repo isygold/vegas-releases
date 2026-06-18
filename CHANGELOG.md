@@ -1,5 +1,26 @@
 # Changelog
 
+## v2.7.3-vegas-stable (2026-06-08) — Stable Release
+
+Community DXVK build for Adreno Android Emulation (Star Emulator / Winlator).
+
+### Features
+- Master Switch (dxvk.enableStarProfile) — Auto/True/False
+- Auto Tier Detection — Adreno 5xx→8xx into 3 performance tiers
+- FSR 1.0 Upscaler — Async compute upscale, zero CPU stall
+- Frame Generation — 3-pass motion-compensated
+- Adaptive Governor — TBDR-inverted threshold tuning
+- Live HUD Colors — Frametime graph by perf state
+- Dynamic VRAM — 40% of system RAM
+- Driver Safeguards — Zero-init, HAAE, QCOM ext mgmt
+
+### Build Details
+- Commit (private): ff4c1fe
+- Branch: vegas
+- Target: Android aarch64 (Adreno via Turnip/Mesa)
+
+---
+
 ## v2.7.3-vegas (2026-06-06) — Initial Community Release
 
 Community DXVK build for Adreno Android Emulation (Star Emulator / Winlator).
