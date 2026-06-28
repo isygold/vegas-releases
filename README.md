@@ -23,4 +23,4 @@ See [CHANGELOG.md](CHANGELOG.md) for full details.
 
 ## License
 
-zlib/libpng— same as upstream DXVK.
+zlib/libpng— added a new copyright in licence.
