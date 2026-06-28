@@ -23,4 +23,4 @@ See [CHANGELOG.md](CHANGELOG.md) for full details.
 
 ## License
 
-GPL-2.0 — same as upstream DXVK.
+zlib/libpng— same as upstream DXVK.
