@@ -4,7 +4,7 @@ VEGAS — Community DXVK builds for Adreno Android Emulation 🎰
 
 ## About
 
-This repository hosts release artifacts for **VEGAS**, a community-driven fork of DXVK 2.7.3 purpose-built for Qualcomm Adreno GPUs running under Winlator and Star Emulator on Android (ARM64).
+This repository hosts release artifacts for **VEGAS**, a community-driven fork of GPLAsync 2.7.1 (itself a DXVK fork) purpose-built for Qualcomm Adreno GPUs running under Winlator and Star Emulator on Android (ARM64).
 
 Each release provides:
 - **WCP packages** — Import directly into Winlator (type: DXVK) or Star Emulator (type: VEGAS)
