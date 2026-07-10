@@ -1,3 +1,6 @@
+> **📖 [Read the Build FAQ first →](https://github.com/isygold/Vegas-Private/blob/1.11.1/VEGAS-DXVK-SAREK-BUILD-FAQ.md)**
+> Important info about which file to download, VEGAS+VKD3D auto-install, and Unity compatibility.
+
 # vegas-releases
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%24?logo=github&style=flat)](https://github.com/sponsors/isygold)
