@@ -2,9 +2,7 @@
 > Important info about which file to download, VEGAS+VKD3D auto-install, and Unity compatibility.
 
 # vegas-releases
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-%24?logo=github&style=flat)](https://github.com/sponsors/isygold)
-
+[![Sponsor](https://img.shields.io/badge/Sponsor-%24?logo=github&style=flat)](https://github.com/sponsors/isygold/card)
 VEGAS — Community DXVK builds for Adreno Android Emulation 🎰
 
 ## About
