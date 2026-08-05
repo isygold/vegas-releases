@@ -8,6 +8,8 @@
 [![Latest Release](https://img.shields.io/github/v/release/isygold/vegas-releases?style=flat-square)](https://github.com/isygold/vegas-releases/releases/latest)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%24?logo=github&style=flat-square)](https://github.com/sponsors/isygold/card)
 
+📖 **[Wiki](https://github.com/isygold/vegas-releases/wiki)** — quickstart, installation, configuration reference, FAQ
+
 VEGAS — Community DXVK builds for Adreno Android Emulation 🎰
 
 ## About
